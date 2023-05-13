@@ -78,7 +78,7 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:black;color:#FFF">RITO GAMES
+                            <a href="index.php" style="background-color:black;color:#FFF">RITO X
 <img src="images/LOGO2.png" width="70" height="70"></a>
 						</div>
 					</div>
